@@ -8,7 +8,7 @@ Tasks not completed
 
 
 Video Walkthrough
-![Video Walkthrough](https://github.com/mayavenkatraman/tips/blob/master/res.gif)
+![Video Walkthrough](https://github.com/mayavenkatraman/tips/blob/master/res2.gif)
 
  GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
