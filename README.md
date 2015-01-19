@@ -1,6 +1,6 @@
 Assignment 0 for iOS for Designers class - not yet completed
 
-Time taken : so far - 2 hours 
+Time taken : so far - 3 hours 
 
 Tasks Completed:
 - layout
