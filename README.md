@@ -7,6 +7,8 @@ Tasks Completed:
 - calculate tip
 - syntax for two point decimal
 - get rid of keyboard
+- 
+
 Tasks not completed yet
 - make the toggle work on edit
 - make the toggle work as a switcher
