@@ -72,6 +72,10 @@
                             </segmentedControl>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <gestureRecognizers/>
+                        <connections>
+                            <outletCollection property="gestureRecognizers" destination="AFs-Nq-eyM" appends="YES" id="BRt-Gc-GvB"/>
+                        </connections>
                     </view>
                     <connections>
                         <outlet property="billField" destination="les-Mb-eQw" id="FgU-IE-9Yh"/>
@@ -80,6 +84,11 @@
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+                <tapGestureRecognizer id="AFs-Nq-eyM">
+                    <connections>
+                        <action selector="onTap:" destination="BYZ-38-t0r" id="jnE-oW-vm8"/>
+                    </connections>
+                </tapGestureRecognizer>
             </objects>
             <point key="canvasLocation" x="232" y="343"/>
         </scene>
