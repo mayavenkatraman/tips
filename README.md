@@ -13,12 +13,11 @@ Tasks not completed yet:
 - make the toggle work on edit
 - make the toggle work as a switcher
 
-Video Walkthrough
+
 ![Video Walkthrough](https://github.com/mayavenkatraman/tips/blob/master/res3.gif)
 
  GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
-GIF created with LiceCap.
 
 
