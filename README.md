@@ -7,14 +7,14 @@ Tasks Completed:
 - calculate tip
 - syntax for two point decimal
 - get rid of keyboard
-
+- make the toggle work on edit
 
 Tasks not completed yet:
-- make the toggle work on edit
+
 - make the toggle work as a switcher
 
 
-![Video Walkthrough](https://github.com/mayavenkatraman/tips/blob/master/res3.gif)
+![Video Walkthrough](https://github.com/mayavenkatraman/tips/blob/master/res4.gif)
 
  GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
