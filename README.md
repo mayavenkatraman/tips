@@ -6,13 +6,13 @@ Tasks Completed:
 - layout
 - calculate tip
 - syntax for two point decimal
-
-Tasks not completed yet
 - get rid of keyboard
-- ?
+Tasks not completed yet
+- make the toggle work on edit
+- make the toggle work as a switcher
 
 Video Walkthrough
-![Video Walkthrough](https://github.com/mayavenkatraman/tips/blob/master/res2.gif)
+![Video Walkthrough](https://github.com/mayavenkatraman/tips/blob/master/res3.gif)
 
  GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
